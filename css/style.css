@@ -1,0 +1,40 @@
+@import "./global/global.css";
+@import "./components/typography.css";
+@import "./components/colors.css";
+@import "./components/animation.css";
+
+@import "./global/header.css";
+@import "./global/footer.css";
+
+/* Components */
+@import "./components/components.css";
+@import "./components/form.css";
+
+/* Home */
+@import "./home/intro.css";
+@import "./home/technology.css";
+@import "./home/partners.css";
+@import "./home/testimonial.css";
+
+/* Bicycles */
+@import "./bicycles/bicycles-list.css";
+@import "./bicycles/bicycles.css";
+
+/* Bicycle */
+@import "./bicycle/bicycle.css";
+@import "./bicycle/insurance-bicycles.css";
+
+/* Insurance */
+@import "./insurance/insurance.css";
+@import "./insurance/benefits.css";
+@import "./insurance/faq.css";
+
+/* Contact */
+@import "./contact/contact.css";
+@import "./contact/stores.css";
+
+/* Quote */
+@import "./quote/quote.css";
+
+/* Terms */
+@import "./terms/terms.css";
